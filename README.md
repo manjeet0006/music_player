@@ -67,4 +67,8 @@ Your Name - Manjeet Kumar (manjeetsingh.muz98@gmail.com)
 
 Project Link: https://github.com/manjeet0006/music_player
 
+---
+
+This project was created as part of my internship with Code Alpha.
+
 
