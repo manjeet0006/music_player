@@ -13,7 +13,7 @@ A simple and elegant music player built with HTML, CSS, and JavaScript. This mus
 - [Contributing](#contributing)
 
 ## Demo
-You can see a live demo of the Music Player 
+You can see a live demo of the Music Player https://www.linkedin.com/posts/manjeet-kumar-50a463301_webdevelopment-internship-html-activity-7219699541959155712-BZCy?utm_source=share&utm_medium=member_desktop
 
 ## Features
 - Play and pause music
